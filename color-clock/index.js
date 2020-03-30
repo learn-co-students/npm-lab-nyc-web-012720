@@ -11,6 +11,8 @@ function displayTime() {
   }, 1000)
 
 
-}
+}  
+
+
 
 window.onload = displayTime()

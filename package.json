@@ -1,0 +1,19 @@
+{
+  "name": "npm-lab-nyc-web-012720",
+  "version": "1.0.0",
+  "description": "## Overview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adit313/npm-lab-nyc-web-012720.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adit313/npm-lab-nyc-web-012720/issues"
+  },
+  "homepage": "https://github.com/adit313/npm-lab-nyc-web-012720#readme"
+}
